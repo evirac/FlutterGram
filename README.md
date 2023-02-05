@@ -1,0 +1,1 @@
+This is an educational project. I have attempted to remake a popular social media platform - instagram in flutter. This is a full stack project, you can create accounts, upload multimedia and follow other accounts. This is made as a web app and an android app.
